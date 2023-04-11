@@ -1,6 +1,8 @@
 @extends('layout')
 @section('judul', 'The Menu')
 @section('container')
+@section('keywords', 'Makanan korea, harga makanan korea,Korean Food, Bibimbap, Topoki, Ramyeon')
+@section('description', 'List of Korean Food')
     <h1 class="mb-3 is-flex is-justify-content-center is-size-3">The Menu</h1>
     @foreach ($arrmakanan as $mkn)
     <a href="makanan/{{$mkn["slug"]}}" class="container is-widescreen">
