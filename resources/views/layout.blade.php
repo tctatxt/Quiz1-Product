@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="/node_modules/bulma/css/bulma.min.css">
     <link rel="stylesheet" href="/node_modules/bulma/css/bulma.css">
     <title>@yield('judul')</title>
+    <meta name="description" content="@yield('description')">
+    <meta name="keywords" content="@yield('keywords')">
 </head>
 <body>
     <nav class="navbar has-background-grey-lighter" role="navigation" aria-label="main navigation">

@@ -14,6 +14,7 @@ class FoodController extends Controller
                 "slug"=> "bibimbap",
                 "price" => "RP 25000",
                 "desc" => "Bibimbap adalah hidangan nasi campur khas Korea yang terdiri dari nasi putih yang dicampur dengan sayuran, daging, dan bumbu-bumbu khas Korea seperti gochujang",
+                "image" => "/bibimbap.png",
                 "fulldesc" => "
                 <p>Bibimbap adalah hidangan nasi campur khas Korea yang terdiri dari nasi putih yang dicampur dengan sayuran, daging, dan bumbu-bumbu khas Korea seperti gochujang (pasta cabai pedas) dan ganjang (kecap asin). Kata bibim dalam bahasa Korea berarti mencampur, sedangkan bap berarti nasi. </p>
                 <p>Hidangan ini biasanya disajikan dalam mangkuk besar dengan nasi di bagian bawah, diikuti oleh lapisan sayuran segar seperti bayam, lobak, tauge, dan wortel di atasnya. Daging yang digunakan bervariasi, seperti daging sapi, ayam, atau babi yang dipotong kecil-kecil dan dicampur dengan bumbu. </p>
@@ -26,6 +27,7 @@ class FoodController extends Controller
                 "price" => "RP 35000",
                 "slug"=> "ramyeon",
                 "desc" => "Ramyeon adalah mie instan yang berasal dari Korea. Mie ini terdiri dari mi telur yang tebal, panjang, dan kenyal, disajikan dengan kuah kaldu yang biasanya pedas dan gurih.",
+                "image" => "/rayeon.png",
                 "fulldesc" => "
                 <p>Ramyeon adalah mie instan yang berasal dari Korea. Mie ini terdiri dari mi telur yang tebal, panjang, dan kenyal, disajikan dengan kuah kaldu yang biasanya pedas dan gurih. Ramyeon umumnya dijual dalam kemasan plastik yang berisi mie, bumbu penyedap, dan pelengkap seperti potongan daging, sayuran kering, dan telur.</p>
                 <p>Cara membuat ramyeon sangat mudah, yaitu dengan merebus mie dalam air mendidih selama beberapa menit hingga matang, lalu dituangkan bumbu penyedapnya. Ada banyak variasi rasa ramyeon yang tersedia, termasuk rasa pedas, ayam, sapi, dan keju. Beberapa merek ramyeon terkenal di Korea, seperti Nongshim, Samyang, dan Ottogi.</p>
@@ -37,6 +39,7 @@ class FoodController extends Controller
                 "status"=> "SSR",
                 "price" => "RP 25000",
                 "slug"=> "tteokbokki",
+                "image" => "/Tteokbokki.png",
                 "desc" => "Tteokbokki atau topokki adalah makanan Korea yang terbuat dari garaetteok, yaitu kue beras tebal dan kenyal yang dipotong menjadi bentuk silinder atau persegi panjang. ",
                 "fulldesc" => "
                 <p>Tteokbokki atau topokki adalah makanan Korea yang terbuat dari garaetteok, yaitu kue beras tebal dan kenyal yang dipotong menjadi bentuk silinder atau persegi panjang. Tteokbokki biasanya dimasak dengan gochujang, pasta cabai pedas yang khas dari Korea, sehingga memiliki rasa pedas, manis, dan gurih yang khas.</p>
@@ -56,6 +59,7 @@ class FoodController extends Controller
                 "slug"=> "bibimbap",
                 "price" => "RP 25000",
                 "desc" => "Bibimbap adalah hidangan nasi campur khas Korea yang terdiri dari nasi putih yang dicampur dengan sayuran, daging, dan bumbu-bumbu khas Korea seperti gochujang",
+                "image" => "/bibimbap.png",
                 "fulldesc" => "
                 <p>Bibimbap adalah hidangan nasi campur khas Korea yang terdiri dari nasi putih yang dicampur dengan sayuran, daging, dan bumbu-bumbu khas Korea seperti gochujang (pasta cabai pedas) dan ganjang (kecap asin). Kata bibim dalam bahasa Korea berarti mencampur, sedangkan bap berarti nasi. </p>
                 <p>Hidangan ini biasanya disajikan dalam mangkuk besar dengan nasi di bagian bawah, diikuti oleh lapisan sayuran segar seperti bayam, lobak, tauge, dan wortel di atasnya. Daging yang digunakan bervariasi, seperti daging sapi, ayam, atau babi yang dipotong kecil-kecil dan dicampur dengan bumbu. </p>
@@ -68,6 +72,7 @@ class FoodController extends Controller
                 "price" => "RP 35000",
                 "slug"=> "ramyeon",
                 "desc" => "Ramyeon adalah mie instan yang berasal dari Korea. Mie ini terdiri dari mi telur yang tebal, panjang, dan kenyal, disajikan dengan kuah kaldu yang biasanya pedas dan gurih.",
+                "image" => "/rayeon.png",
                 "fulldesc" => "
                 <p>Ramyeon adalah mie instan yang berasal dari Korea. Mie ini terdiri dari mi telur yang tebal, panjang, dan kenyal, disajikan dengan kuah kaldu yang biasanya pedas dan gurih. Ramyeon umumnya dijual dalam kemasan plastik yang berisi mie, bumbu penyedap, dan pelengkap seperti potongan daging, sayuran kering, dan telur.</p>
                 <p>Cara membuat ramyeon sangat mudah, yaitu dengan merebus mie dalam air mendidih selama beberapa menit hingga matang, lalu dituangkan bumbu penyedapnya. Ada banyak variasi rasa ramyeon yang tersedia, termasuk rasa pedas, ayam, sapi, dan keju. Beberapa merek ramyeon terkenal di Korea, seperti Nongshim, Samyang, dan Ottogi.</p>
@@ -79,6 +84,7 @@ class FoodController extends Controller
                 "status"=> "SSR",
                 "price" => "RP 25000",
                 "slug"=> "tteokbokki",
+                "image" => "/Tteokbokki.png",
                 "desc" => "Tteokbokki atau topokki adalah makanan Korea yang terbuat dari garaetteok, yaitu kue beras tebal dan kenyal yang dipotong menjadi bentuk silinder atau persegi panjang. ",
                 "fulldesc" => "
                 <p>Tteokbokki atau topokki adalah makanan Korea yang terbuat dari garaetteok, yaitu kue beras tebal dan kenyal yang dipotong menjadi bentuk silinder atau persegi panjang. Tteokbokki biasanya dimasak dengan gochujang, pasta cabai pedas yang khas dari Korea, sehingga memiliki rasa pedas, manis, dan gurih yang khas.</p>
