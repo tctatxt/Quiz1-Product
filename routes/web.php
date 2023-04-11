@@ -21,7 +21,7 @@ Route::get('/', function () {
 
 Route::get('/home', [FoodController::class, 'index']);
 
-Route::get('makanan/{slug}', function ($slug) {
+Route::get('/makanan/{slug}', function ($slug) {
     return view('makan');
 });
 
